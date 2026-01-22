@@ -1,8 +1,8 @@
 ## Calixte Henry
 
 Languages: 
-- Python [![](icons/python.svg)]
-- R
+- Python <img src="icons/python.svg" width="20" />
+- R <img src="icons/R.svg" width="20" />
 
 
 I like to make my own tools
