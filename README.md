@@ -1,5 +1,10 @@
 ## Calixte Henry
 
+Languages: 
+- Python
+- R
+
+
 I like to make my own tools
 
 ## Latest projects
