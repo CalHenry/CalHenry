@@ -1,7 +1,7 @@
 ## Calixte Henry
 
 Languages: 
-- Python
+- Python [![](icons/python.svg)]
 - R
 
 
