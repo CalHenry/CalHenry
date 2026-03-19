@@ -4,10 +4,8 @@ Languages:
 - Python <img src="icons/python.svg" width="20" />
 - R <img src="icons/R.svg" width="20" />
 
-
-I like to make my own tools
-
 ## Latest projects
+- [RAG](https://github.com/CalHenry/RAG) Local RAG system to help AI analyse documents
 - [Cluedo-ai](https://github.com/CalHenry/cluedo-ai) Watch agents play a cluedo game
 - [CSV-VE](https://github.com/CalHenry/csv-ve) CSV editor for the terminal
 - [Pretty print LanguageTool](https://github.com/CalHenry/pretty-print-languagetool) Rich output for LanguageTool cli
