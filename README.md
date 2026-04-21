@@ -6,7 +6,7 @@ Languages:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
+
 
 ## Latest projects
 - [RAG](https://github.com/CalHenry/RAG) Local RAG system to help AI analyse documents
