@@ -7,6 +7,7 @@ Languages:
 ## Latest projects
 - [RAG](https://github.com/CalHenry/RAG) Local RAG system to help AI analyse documents
 - [Cluedo-ai](https://github.com/CalHenry/cluedo-ai) Watch agents play a cluedo game
-- [CSV-VE](https://github.com/CalHenry/csv-ve) CSV editor for the terminal
+- [Python-guide-for-R-users](https://github.com/CalHenry/Python-guide-for-R-users) 
 - [Pretty print LanguageTool](https://github.com/CalHenry/pretty-print-languagetool) Rich output for LanguageTool cli
+- [CSV-VE](https://github.com/CalHenry/csv-ve) CSV editor for the terminal
 
